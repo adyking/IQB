@@ -1,0 +1,14 @@
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutter\bin\Debug\KeyCutter.exe.config
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutter\bin\Debug\KeyCutter.exe
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutter\bin\Debug\KeyCutter.pdb
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutter\obj\Debug\MainWindow.g.cs
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutter\obj\Debug\App.g.cs
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutter\obj\Debug\KeyCutter_MarkupCompile.cache
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutter\obj\Debug\KeyCutter_MarkupCompile.lref
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutter\obj\Debug\MainWindow.baml
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutter\obj\Debug\KeyCutter.g.resources
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutter\obj\Debug\KeyCutter.Properties.Resources.resources
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutter\obj\Debug\KeyCutter.csproj.GenerateResource.cache
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutter\obj\Debug\KeyCutter.csproj.CoreCompileInputs.cache
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutter\obj\Debug\KeyCutter.exe
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutter\obj\Debug\KeyCutter.pdb

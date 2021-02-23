@@ -1,0 +1,7 @@
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\WcfServiceKeyCutter\bin\Debug\WcfServiceKeyCutter.dll.config
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\WcfServiceKeyCutter\bin\Debug\WcfServiceKeyCutter.dll
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\WcfServiceKeyCutter\bin\Debug\WcfServiceKeyCutter.pdb
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\WcfServiceKeyCutter\obj\Debug\WcfServiceKeyCutter.csprojAssemblyReference.cache
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\WcfServiceKeyCutter\obj\Debug\WcfServiceKeyCutter.csproj.CoreCompileInputs.cache
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\WcfServiceKeyCutter\obj\Debug\WcfServiceKeyCutter.dll
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\WcfServiceKeyCutter\obj\Debug\WcfServiceKeyCutter.pdb

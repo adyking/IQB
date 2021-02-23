@@ -1,0 +1,6 @@
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutterService\bin\KeyCutterService.dll.config
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutterService\bin\KeyCutterService.dll
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutterService\bin\KeyCutterService.pdb
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutterService\obj\Debug\KeyCutterService.csproj.CoreCompileInputs.cache
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutterService\obj\Debug\KeyCutterService.dll
+C:\DevProjects\challenge\challenge-key-cutter-adyking\solution\KeyCutter\KeyCutterService\obj\Debug\KeyCutterService.pdb
